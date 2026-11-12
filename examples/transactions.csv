@@ -1,0 +1,9 @@
+date,portfolio,type,symbol,quantity,quantity_unit,price,fee,tax,currency,fx_rate,note
+2025-01-15,Stockbit,buy,SIDO,10,lot,500,750,0,IDR,1,SYNTHETIC EXAMPLE - replace with your records
+2025-02-12,Stockbit,buy,BBRI,2,lot,4000,1200,0,IDR,1,SYNTHETIC EXAMPLE
+2025-03-10,Stockbit,buy,BMRI,3,lot,5000,2250,0,IDR,1,SYNTHETIC EXAMPLE
+2025-04-07,Stockbit,buy,SMSM,5,lot,1800,1350,0,IDR,1,SYNTHETIC EXAMPLE
+2025-05-05,GoTrade,buy,SCHD,2.75,share,27,0.10,0,USD,16400,SYNTHETIC EXAMPLE - FX is illustrative
+2025-06-03,GoTrade,buy,VOO,0.125,share,540,0.10,0,USD,16300,SYNTHETIC EXAMPLE
+2025-07-15,Stockbit,dividend,SIDO,1000,share,20000,0,0,IDR,1,SYNTHETIC EXAMPLE - price is total gross dividend
+2025-08-01,GoTrade,dividend,SCHD,2.75,share,0.70,0,0.105,USD,16200,SYNTHETIC EXAMPLE - confirmed net is gross minus tax

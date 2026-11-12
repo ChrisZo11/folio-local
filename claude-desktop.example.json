@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "folio": {
+      "command": "C:\\path\\to\\folio\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "portfolio",
+        "--db",
+        "C:\\path\\to\\folio\\data\\portfolio.db",
+        "mcp"
+      ],
+      "env": {
+        "PYTHONPATH": "C:\\path\\to\\folio"
+      }
+    }
+  }
+}

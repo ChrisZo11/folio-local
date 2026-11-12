@@ -1,0 +1,3 @@
+date,portfolio,ticker,quantity,quantity_unit,average_cost,currency,fx_rate,note
+2025-01-01,Stockbit,BBCA,100,share,9000,IDR,1,SYNTHETIC opening balance - full return history unavailable
+2025-01-01,GoTrade,SCHD,1.25,share,27,USD,16000,SYNTHETIC opening balance - historical FX must be verified

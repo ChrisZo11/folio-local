@@ -1,0 +1,16 @@
+{
+  "portfolio_id": 1,
+  "date": "2025-01-15",
+  "type": "buy",
+  "symbol": "BBCA",
+  "quantity": "100",
+  "quantity_unit": "share",
+  "price": "9000",
+  "fee": "1350",
+  "tax": "0",
+  "currency": "IDR",
+  "fx_rate": "1",
+  "note": "SYNTHETIC EXAMPLE — replace with your own transaction",
+  "affects_cash": false,
+  "fee_estimated": true
+}
